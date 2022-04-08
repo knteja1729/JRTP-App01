@@ -9,6 +9,8 @@ public class PwdService {
 	public static String encoder(String txt) {
 		Encoder encoder = Base64.getEncoder();
 		byte[] encode = encoder.encode(txt.getBytes());
+		
+		
 		return new String(encode);
 	}
 	
