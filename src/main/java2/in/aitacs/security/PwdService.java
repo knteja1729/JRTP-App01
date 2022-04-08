@@ -27,7 +27,7 @@ int i=1;
 		
 
 	
-	/*
+	/*Hello
 	 * public static void main(String[] args) {
 	 * 
 	 * String encoder = encoder("Narendra"); System.out.println(encoder); String
