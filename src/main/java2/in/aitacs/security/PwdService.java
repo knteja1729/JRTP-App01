@@ -19,7 +19,7 @@ public class PwdService {
 		return new String(encode);
 	}
 
-		int i= 1;
+		
 	
 	/*
 	 * public static void main(String[] args) {
