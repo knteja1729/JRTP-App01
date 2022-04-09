@@ -9,12 +9,14 @@ public class PwdService {
 	public static String encoder(String txt) {
 		Encoder encoder = Base64.getEncoder();
 		byte[] encode = encoder.encode(txt.getBytes());
-		
+		int i =10;
 		
 		return new String(encode);
 	}
 	
 	public static String decode(String encoder) {
+		
+		int j =20;
 		Decoder decoder = Base64.getDecoder();
 		System.out.println("Iam second version");
 		byte[] encode = decoder.decode(encoder);
