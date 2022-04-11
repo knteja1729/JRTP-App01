@@ -28,6 +28,7 @@ int i=1;
 		//implemented
 		int k = 1;
 		int j =2;
+		int k = 3;
 	}
 
 		
