@@ -29,6 +29,7 @@ int i=1;
 		int k = 1;
 		int j =2;
 		int k = 3;
+		int y =4;
 	}
 
 		
