@@ -24,6 +24,13 @@ public class PwdService {
 
 int i=1;
 
+public void m2(){
+
+	//Bug id -121;
+	//Implementation
+
+}
+
 	
 
 		
