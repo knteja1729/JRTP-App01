@@ -24,12 +24,13 @@ public class PwdService {
 
 int i=1;
 
-public void m2(){
 
-	//Bug id -121;
-	//Implementation
 
-}
+
+	public void m1(){
+		// Bug-id=111;
+		//Implementation
+	}
 
 	
 
