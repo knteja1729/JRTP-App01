@@ -26,6 +26,8 @@ int i=1;
 
 	public void m1(){
 		//implemented
+		int k = 1;
+		int j =2;
 	}
 
 		
